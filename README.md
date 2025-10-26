@@ -75,3 +75,7 @@ If this is collaborative, add a short `CONTRIBUTING.md` and a CODE_OF_CONDUCT wh
 
 Happy learning — add a new Python file today! 🚀
 
+## License
+
+This repository is released under the MIT License — see the `LICENSE` file for details.
+
